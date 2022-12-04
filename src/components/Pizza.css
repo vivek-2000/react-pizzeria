@@ -1,0 +1,12 @@
+
+
+#cardss img{
+   
+    height: 115px;
+    width: 125px; 
+}
+
+#cardss div:nth-child(2) button{
+    height: 5px;
+    width: 5px;
+}
